@@ -1,6 +1,6 @@
 <h1 align="center">Prasy Ikuzo</h1>
 
-![picture](https://github.com/PrasyFanatic/prasyikuzo/blob/main/images/overview%20prasy.png)
+![PrasyIkuzo](https://github.com/PrasyFanatic/prasyikuzo/blob/main/images/overview%20prasy.png)
 
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
