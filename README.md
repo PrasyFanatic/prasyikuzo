@@ -3,7 +3,7 @@
 <img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.png">
 <p align="center">
  
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzo;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzoReal;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
 # 🧸 Buy Me A Coffe :
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
