@@ -2,6 +2,8 @@
 
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
+![PrasyIkuzo](https://github.com/PrasyFanatic/prasyikuzo/blob/main/images/prasyikuzo.gif)
+
 ![PrasyIkuzo](https://github.com/PrasyFanatic/prasyikuzo/blob/main/images/overview%20prasy.png)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyFanatic;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
