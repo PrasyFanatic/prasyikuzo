@@ -1,8 +1,5 @@
 <h1 align="center">Prasy Ikuzo</h1>
 
-<img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.png">
-<p align="center">
-
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyFanatic;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
