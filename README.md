@@ -3,7 +3,7 @@
 <img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.png">
 <p align="center">
  
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzoReal;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyFanatic;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
 # 🧸 Buy Me A Coffe :
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
@@ -57,7 +57,7 @@ ___________________________________________________________________
 
 # 📊 GitHub Stats :
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&theme=radical&count_private=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=PrasyFanatic&show_icons=true&theme=radical&count_private=true" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical" />
 </p>
