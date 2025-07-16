@@ -1,13 +1,17 @@
-<h1 align="center">Prasy Ikuzo</h1>
+**<h1 align="center">Prasy Ikuzo</h1>**
 
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyFanatic;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m Prasy Ikuzo 🗿
-- 👀 I’m Interested In Ethical Hacking
-- 💫 I’m Currently Learning A Lot Of Things
-- 💞️ I’m Looking To Collaborate On Google
+![Prasy Ikuzo](https://github.com/PrasyFanatic/prasyikuzo/blob/main/images/PrasyIkuzo.jpg)
+
+
+> [!WARNING]
+> - 👋 **Hi, I’m Prasy Ikuzo 🗿**
+> - 👀 **I’m Interested In Ethical Hacking**
+> - 💫 **I’m Currently Learning A Lot Of Things**
+> - 💞️ **I’m Looking To Collaborate On Google**
 
 ## 🍻 **Buy Me A Coffee**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
