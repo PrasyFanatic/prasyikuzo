@@ -617,6 +617,6 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 ## ✨️ Thank You
-Thank you for visiting.
+Thank you for visiting. 😊
 
 ![Dinosaurs](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
