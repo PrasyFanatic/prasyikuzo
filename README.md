@@ -37,9 +37,9 @@ ___________________________________________________________________
             alt="Discord"></a>
     <a href="https://github.com/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github" alt="Github"></a>
-    <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
-            src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
-            alt="Tiktok"></a>
+    <a href="https://x.com/prasyikuzo" target="_blank"><img
+            src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logoColor=white&logo=twitter"
+            alt="Twitter"></a>
 
 ___________________________________________________________________
 
@@ -53,10 +53,9 @@ ___________________________________________________________________
 
 # 📊 **GitHub Stats**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=PrasyFanatic&show_icons=true&theme=radical&count_private=true" />
+![Prasy Ikuzo](https://github-readme-stats.vercel.app/api?username=PrasyFanatic&show_icons=true&theme=radical&count_private=true)
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical" />
-</p>
+![Prasy Ikuzo](https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical)"
 
 ![Prasy Ikuzo](https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6)
 
