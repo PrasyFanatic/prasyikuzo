@@ -6,7 +6,9 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyFanatic;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/PrasyIkuzo)
+<a href="https://github.com/sponsors/maheshj01/button" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-maheshj01-orange" alt="Sponsor @maheshj01" />
+</a>
 
 # 🧸 Buy Me A Coffee
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
