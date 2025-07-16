@@ -2,22 +2,22 @@
 
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
-![PrasyIkuzo](https://github.com/PrasyFanatic/prasyikuzo/blob/main/images/overview%20prasy.png)
-
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyFanatic;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-<a href="https://github.com/sponsors/maheshj01/button" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-maheshj01-orange" alt="Sponsor @maheshj01" />
-</a>
+- 👋 Hi, I’m Prasy Ikuzo 🗿
+- 👀 I’m Interested In Ethical Hacking
+- 💫 I’m Currently Learning A Lot Of Things
+- 💞️ I’m Looking To Collaborate On Google
 
-# 🧸 Buy Me A Coffee
+## 🍻 **Buy Me A Coffee**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
 [![Saweria](https://img.shields.io/badge/Click--Here-white?style=for-the-badge&logo=saweria)](https://saweria.co/PrasyIkuzo)
 
-<!-- Social Badges-->
-<hr />
+___________________________________________________________________
+
+## 🌐 **My Social Media**
 <p align=center>
     <a href="https://youtube.com/@prasyikuzo" target="_blank"><img
             src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logoColor=white&logo=youtube"
@@ -39,8 +39,7 @@
 
 ___________________________________________________________________
 
-<h3><b><i>🏆 GITHUB TROPHIES 🏆</i></b></h3>
-<div>
+## 🏆 **GitHub Trophies** 🏆
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
 </a>
 </div>
@@ -48,28 +47,18 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-<img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg">
-<p align="center">
-
-- 👋 Hi, I’m Prasy Ikuzo 🗿
-- 👀 I’m Interested In Ethical Hacking
-- 💫 I’m Currently Learning A Lot Of Things
-- 💞️ I’m Looking To Collaborate On Google
-
-___________________________________________________________________
-
-# 📊 GitHub Stats :
+# 📊 **GitHub Stats**
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=PrasyFanatic&show_icons=true&theme=radical&count_private=true" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical" />
 </p>
 
-<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"> </p>
+![Prasy Ikuzo](https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6)
 
-![picture](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/prasy.gif)
+___________________________________________________________________
 
-## 🔎 LANGUAGES :
+## 🔎 **Languages**
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
@@ -102,7 +91,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-<h3 align="left">🛠️ TECH STACK :</h3>
+## 🛠️ **Tech Stack**
 <p align="left">
 <kbd>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
