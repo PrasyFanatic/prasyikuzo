@@ -613,6 +613,6 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 ## ✨️ Thank You
-Thank You For Visiting. 😊
+Thank You For Visiting.
 
-![picture](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
+![Dinosaurs](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
